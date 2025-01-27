@@ -1,0 +1,9 @@
+streamlit
+folium
+pandas
+SQLAlchemy
+psycopg2-binary
+python-jose
+passlib
+python-multipart
+streamlit-folium
